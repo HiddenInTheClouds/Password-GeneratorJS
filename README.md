@@ -11,6 +11,8 @@ The steps required to install the application would be adding the JavaScript int
 
 ## Usage
 
+https://hiddenintheclouds.github.io/password-generator-js/
+
 To use the application do the following:
 1) Click "Generate Password"
 2) Choose how many characters you want the password to be from 8 to 128. If you choose less or more, then the application will prompt you to follow the parameters mentioned earlier.
