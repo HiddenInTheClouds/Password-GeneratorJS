@@ -120,13 +120,14 @@ function generatePassword() {
     pool = pool.concat(specialCharacters);
   }
   // Pick from pool randomly
+  var temp = "";
   for (let i = 0; i < lengthPassword; i++) {
     let randomNumber = Math.floor(Math.random() * pool.length);
-    let temp = pool[randomNumber];
+    temp += pool[randomNumber];
     console.log(temp);
   }
 
-  return "Generated password will go here";
+  return temp;
 }
 // Write password to the #password input
 function writePassword() {
