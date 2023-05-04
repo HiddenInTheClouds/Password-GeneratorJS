@@ -74,27 +74,37 @@ var specialCharacters = [
   ")",
   "_",
   "+",
+  "~",
 ];
+// Function to prompt user for password options
+function getPasswordOptions() {}
 // Function for getting a random element from an array
-function getRandom(arr) {}
+function getRandom(arr) {
+  return Math.floor(Math.random() * arr.length);
+}
 // Function to generate password with user input
 function generatePassword() {
   var lengthPassword = parseInt(prompt("What's the length of the password?"));
-  console.log(lengthPassword);
+  //console.log(lengthPassword);
+  if (lengthPassword < 8 || lengthPassword > 128) {
+    alert("Please choose a password between 8 and 128 characters");
+    return null;
+  }
 
   var lowerChar = confirm("Do you want to use lowercase letters?");
-  console.log(lowerChar);
+  //console.log(lowerChar);
   var upperChar = confirm("Do you want to use uppercase letters?");
-  console.log(upperChar);
+  //console.log(upperChar);
   var numChar = confirm("Do you want to use numbers?");
-  console.log(numChar);
+  //console.log(numChar);
   var specialChar = confirm("Do you want to use special characters?");
-  console.log(specialChar);
+  //console.log(specialChar);
+  // Remove this part?
   if (lengthPassword < 8) {
-    alert("Choose number greater than 8");
+    alert("Choose a number greater than 8");
   }
   if (lengthPassword > 128) {
-    alert("Choose number less than 128");
+    alert("Choose a number less than 128");
   }
 
   return "Generated password will go here";
@@ -116,3 +126,10 @@ generateBtn.addEventListener("click", writePassword);
 // 2. Validate the input.
 // 3. Generate password based on criteria.
 // 4. Display password to the page.
+
+// Display the password
+
+for (let index = 0; index < Array.length; index++) {
+  const element = array[index];
+}
+var pool = [];
