@@ -25,3 +25,14 @@ To use the application do the following:
 <img width="526" alt="Password-Generator-Password-Specialchar" src="https://user-images.githubusercontent.com/130003909/236340511-ebbd82eb-6ff7-43db-90ad-2d3ef4495a25.png">
 <img width="533" alt="Password-Generator-Password-Generated" src="https://user-images.githubusercontent.com/130003909/236340523-6f55ceae-fca9-4439-be4e-48647ff4fa87.png">
 
+## Credits
+
+I collaborated with Jayne Valverde and my bootcamp tutor Dane Shrewsbury.
+
+https://www.youtube.com/watch?v=9sT03jEwcaw&ab_channel=TechnicalCafe
+
+https://www.youtube.com/watch?v=-Dog-Wd_RLw&ab_channel=Omerko
+
+## License
+
+None
