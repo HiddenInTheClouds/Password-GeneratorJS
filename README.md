@@ -21,4 +21,4 @@ To use the application do the following:
 <img width="531" alt="Password-Generator-Password-Lowercase" src="https://user-images.githubusercontent.com/130003909/236340247-a1a8cc98-d8df-4bff-97a8-b8acc2c6714a.png">
 <img width="529" alt="Password-Generator-Password-Uppercase" src="https://user-images.githubusercontent.com/130003909/236340252-6f440ad7-08f5-4b0c-b232-dffdca2a3e51.png">
 <img width="529" alt="Password-Generator-Password-Numbers" src="https://user-images.githubusercontent.com/130003909/236340264-d821f522-d8ec-43d1-94c6-4e5c6f8572e5.png">
-<img width="526" alt="Password-Generator-Password-Specialchar" src="https://user-images.githubusercontent.com/130003909/236340268-795e722<img width="533" alt="Password-Generator-Password-Generated" src="https://user-images.githubusercontent.com/130003909/236340278-73e49902-8e85-4db7-bf95-0f911ac742f3.png">
+
