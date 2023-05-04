@@ -1,4 +1,4 @@
-# Password-GeneratorJS
+# password-generator-js
 
 ## Description
 
